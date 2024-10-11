@@ -1,10 +1,10 @@
- Emily Clayton
-# September 19, 2024
-# P1HW1
-#  Using mathematical equation in code for travel expenses.
+#Emily Clayton
+#October 12,2024
+#P2HW1
+#Using mathematical equation in code for travel expenses.
 
 # Get Inputs from users
-print ("---This program calcutes and display travel expenses---")
+print("---This program calcutes and display travel expenses---")
 print()
 bud = float(input("Enter your budget:"))
 dest = input("Enter your travel Destination:")
