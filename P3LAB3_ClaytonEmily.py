@@ -1,5 +1,4 @@
-Mom😎:
-	#Star Clayton
+#Emily Clayton
 #Oct 19, 2024
 #P3LAB3
 # The program will exceted users input and will display money in the most efficient.
